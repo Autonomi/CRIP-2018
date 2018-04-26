@@ -1,5 +1,4 @@
-<ol> <br>
-# <li>Swarm Robotics and Formation Control
+# 1. Swarm Robotics and Formation Control
 
 ## ABSTRACT
 Swarm robotics is an approach to the coordination of multirobot systems which consist of large numbers of mostly simple physical robots. In this project we will focus our work on understanding and implementing the formation control of swarm robots.
@@ -11,7 +10,7 @@ Swarm robotics is an approach to the coordination of multirobot systems which co
 4. Explore dynamic planning for active swarm
 ____
 
-# <li>Lab Automation System
+# 2. Lab Automation System
 
 ## ABSTRACT
 Laboratory autonomation is aimed at improving the efficiency of the lab and everyone working within the lab. In this project we will be building a complete autonomation system which will have intelligent lighting system, person detection and tracking, implementing user defined preferences, etc.
@@ -24,7 +23,7 @@ Laboratory autonomation is aimed at improving the efficiency of the lab and ever
 5. Implement various user defined preferences like temperature control, lighting control, etc.
 ____
 
-# <li>Automated Stock Management System
+# 3. Automated Stock Management System
 
 ## ABSTRACT
 Managing stock in any lab is a task which requires a lot of manual work. This project is aimed to automate some of the manual tasks, which includes inventory management, and stock issuance.
@@ -36,7 +35,7 @@ Managing stock in any lab is a task which requires a lot of manual work. This pr
 4. Create a technical database designed to facilitate automation system
 ____
 
-# <li>Person Tracking and Following Robot
+# 4. Person Tracking and Following Robot
 
 ## ABSTRACT
 Object detection and tracking is a widely researched field. In this project we will be building 2 robots; one which is stationary and uses a manipulator to track a person or object; second, which is  a mobile robot capable of following the person around a room. The application for this project can be many but our design will be targeted towards bloggers, youtubers, speakers, etc. who want to record themselves with ease.
@@ -50,7 +49,7 @@ Object detection and tracking is a widely researched field. In this project we w
 6. Interface with multiple devices
 ____
 
-# <li>Pick and Place using Kinect and Robotic Arm
+# 5. Pick and Place using Kinect and Robotic Arm
 
 ## ABSTRACT
 Robotic pick and place automation speeds up the process of picking parts up and placing them in new locations, increasing production rates. In this project we will be developing a robotic arm in simulation and in real, able to pick and place an object while using the information from a kinect 3D camera.
