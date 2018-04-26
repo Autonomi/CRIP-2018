@@ -1,4 +1,5 @@
-# <ol> <li>Swarm Robotics and Formation Control
+<ol>
+# <li>Swarm Robotics and Formation Control
 
 ## ABSTRACT
 Swarm robotics is an approach to the coordination of multirobot systems which consist of large numbers of mostly simple physical robots. In this project we will focus our work on understanding and implementing the formation control of swarm robots.
