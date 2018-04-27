@@ -1,6 +1,6 @@
 # CIC Robotics Internship Programme (CRIP) 2018
 
-/* CRIP LOGO HERE */
+![logo](images/logo.png?raw=true)
 
 ## About CRIP
 **CIC Robotics Internship Programme (CRIP)** is summer internship programme for students interested in gaining experience in Robotics. This programme is organised by Autonomi, the Robotics Society of the *Cluster Innovation Centre (CIC), University of Delhi* to give students the opportunity to spend the break between their semesters working on projects related to their interests.
@@ -27,9 +27,9 @@ CRIP is a 2 months-long programme, where students will choose and hence develop 
 ###### All the dates mentioned are tentative and any changes in the timeline will be notified in advance.
 
 ## Registration
-~~Mentors can register here~~. Mentors registrations are closed.
+Mentors can register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdC6sX8XQn-cB6O-aAWDJmdkImBKiZYfoAxVUkhrrQ2c5lfOw/viewform">here</a>. Mentors registrations are closed.
 
-Students can register here.
+Students can register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZK2vgzY7yYmcAUn1l838W1Xbxt4PdIj2xnBoQY4OCwohySg/viewform">here</a>.
 
 ## Contact Us
 You can create an issue on this Github repo to know more.
