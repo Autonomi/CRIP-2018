@@ -27,7 +27,7 @@ CRIP is a 2 months-long programme, where students will choose and hence develop 
 ###### All the dates mentioned are tentative and any changes in the timeline will be notified in advance.
 
 ## Registration
-Mentors can register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdC6sX8XQn-cB6O-aAWDJmdkImBKiZYfoAxVUkhrrQ2c5lfOw/viewform">here</a>. Mentors registrations are closed.
+Mentors can register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdC6sX8XQn-cB6O-aAWDJmdkImBKiZYfoAxVUkhrrQ2c5lfOw/viewform">here</a>. 
 
 Students can register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZK2vgzY7yYmcAUn1l838W1Xbxt4PdIj2xnBoQY4OCwohySg/viewform">here</a>.
 
