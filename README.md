@@ -13,7 +13,7 @@ CRIP is a 2 months-long programme, where students will choose and hence develop 
 | <ul><li>[x] Request for Proposal Issuance</li> | 06/04/2018 |
 | <ul><li>[x] Mentors can begin submitting their proposal</li> | 06/04/2018 |
 | <ul><li>[x] Final Date for notification of mentor’s participation</li> | 24/04/2018 |
-| <ul><li>[ ] Student proposal application Start Date</li> | 25/04/2018 |
+| <ul><li>[x] Student proposal application Start Date</li> | 25/04/2018 |
 | <ul><li>[ ] Deadline for mentor proposal application</li> | 30/04/2018 |
 | <ul><li>[ ] List of accepted Mentors and Projects published</li> | 30/04/2018 |
 | <ul><li>[ ] Student proposal application Deadline</li> | 17/05/2018 |
