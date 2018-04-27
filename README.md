@@ -12,16 +12,16 @@ CRIP is a 2 months-long programme, where students will choose and hence develop 
 |---|---|
 | <ul><li>[x] Request for Proposal Issuance</li> | 06/04/2018 |
 | <ul><li>[x] Mentors can begin submitting their proposal</li> | 06/04/2018 |
-| <ul><li>[x] Final Date for notification of mentor’s participation</li> | 15/04/2018 |
-| <ul><li>[ ] Deadline for mentor proposal application</li> | 22/04/2018 |
-| <ul><li>[ ] List of accepted Mentors and Projects published</li> | 24/04/2018 |
+| <ul><li>[x] Final Date for notification of mentor’s participation</li> | 24/04/2018 |
 | <ul><li>[ ] Student proposal application Start Date</li> | 25/04/2018 |
+| <ul><li>[ ] Deadline for mentor proposal application</li> | 30/04/2018 |
+| <ul><li>[ ] List of accepted Mentors and Projects published</li> | 30/04/2018 |
 | <ul><li>[ ] Student proposal application Deadline</li> | 17/05/2018 |
 | <ul><li>[ ] Accepted students announced</li> | 20/05/2018 |
 | <ul><li>[ ] Bonding period: Students get to know about project and discuss it with mentors</li> | 21/05/2018 - 27/05/2018 |
 | <ul><li>[ ] Internship Starts</li> | 28/05/2018 |
 | <ul><li>[ ] Mid-summer evaluation</li> | 30/06/2018 - 31/06/2018 |
-| <ul><li>[ ] Summer Internship Ends: Project Deadline</li> | 29/07/2018 |
+| <ul><li>[ ] Summer Internship Ends: Project Deadline</li> | 20/07/2018 |
 | <ul><li>[ ] List of successful projects published and certificates distribution</li> | 05/08/2018 |
 
 ###### All the dates mentioned are tentative and any changes in the timeline will be notified in advance.
