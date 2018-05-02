@@ -62,3 +62,17 @@ Robotic pick and place automation speeds up the process of picking parts up and 
 5. Implement motion planning for the manipulator
 6. Test and improve the pick and place mechanism
 ____
+
+# 6. Waiter Robots
+
+## Abstract
+Robots that follow the line and deliver food items and other stuff from one place to another. They must know each others’ location so that they don’t collide with each other.
+
+## Goals
+1. The bots must be stable enough and can handle stuff
+2. Follow the line properly
+3. Communication between the robots must be good
+4. Self Charge (go to power socket and charge itself)
+5. Robot must be User Friendly
+6. Design must be cool
+___
