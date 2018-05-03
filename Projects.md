@@ -1,4 +1,16 @@
-# 1. Swarm Robotics and Formation Control
+# 1. Simultaneous Localisation and Mapping (SLAM)
+## ABSTRACT
+In robotic mapping and navigation, simultaneous localization and mapping (SLAM) is the computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it. In this project we aim to break down this field into small chunks and prepare each module separately to finally build a unified SLAM robot.
+
+## GOALS
+1. Implement various motion planning algorithms
+2. Implement various localisation algorithms
+3. Explore Visual SLAM
+4. Combine localisation and motion planning algorithms to navigate a predefined area while reducing errors
+5. Explore various mapping techniques using various sensors
+6. Integrate everything and build a SLAM robot
+
+# 2. Swarm Robotics and Formation Control
 
 ## ABSTRACT
 Swarm robotics is an approach to the coordination of multirobot systems which consist of large numbers of mostly simple physical robots. In this project we will focus our work on understanding and implementing the formation control of swarm robots.
@@ -10,7 +22,7 @@ Swarm robotics is an approach to the coordination of multirobot systems which co
 4. Explore dynamic planning for active swarm
 ____
 
-# 2. Lab Automation System
+# 3. Lab Automation System
 
 ## ABSTRACT
 Laboratory autonomation is aimed at improving the efficiency of the lab and everyone working within the lab. In this project we will be building a complete autonomation system which will have intelligent lighting system, person detection and tracking, implementing user defined preferences, etc.
@@ -21,18 +33,6 @@ Laboratory autonomation is aimed at improving the efficiency of the lab and ever
 3. Track people and switch on electronics only in their vicinity
 4. Recognise people
 5. Implement various user defined preferences like temperature control, lighting control, etc.
-____
-
-# 3. Automated Stock Management System
-
-## ABSTRACT
-Managing stock in any lab is a task which requires a lot of manual work. This project is aimed to automate some of the manual tasks, which includes inventory management, and stock issuance.
-
-## GOALS
-1. Issue Stock to students based on Object Detection
-2. Train a Deep Learning (DL) Model to specifically trained to classify Lab stock items
-3. Design and implement an IOT system for inventory management to associate with this DL Model
-4. Create a technical database designed to facilitate automation system
 ____
 
 # 4. Person Tracking and Following Robot
