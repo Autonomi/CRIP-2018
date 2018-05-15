@@ -31,6 +31,9 @@ Mentors can register ~~here.~~
 
 Students can register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZK2vgzY7yYmcAUn1l838W1Xbxt4PdIj2xnBoQY4OCwohySg/viewform">here</a>.
 
+## Projects
+You can find the project <a href="https://github.com/Autonomi/CRIP-2018/blob/master/Projects.md">here</a>.
+
 ## Contact Us
 You can create an issue on this Github repo to know more.
 You can also get in touch with us at autonomiducic@gmail.com
