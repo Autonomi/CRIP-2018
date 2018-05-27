@@ -13,6 +13,8 @@ Swarm robotics is an approach to the coordination of multirobot systems which co
 
 ### Students :- Harry Karwasra, Pranav Kumar, Thomas Kuruvila
 ____
+&nbsp;
+&nbsp;
 
 # 2. Lab Automation System
 
@@ -30,7 +32,8 @@ Laboratory autonomation is aimed at improving the efficiency of the lab and ever
 
 ### Students :- Akanksha, Mohd Abis, Bharat Sardana
 ____
-
+&nbsp;
+&nbsp;
 # 3. Person Tracking and Following Robot
 
 ### Mentors :- Rishab Grover, Ashish Sethi, Ridhwan Luthra
