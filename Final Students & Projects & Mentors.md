@@ -2,6 +2,8 @@
 
 ### Mentors :- Akanshu Mahajan, Ridhwan Luthra, Vaibhav Jain
 
+### Students :- Harry Karwasra, Pranav Kumar, Thomas Kuruvila
+
 ## ABSTRACT
 Swarm robotics is an approach to the coordination of multirobot systems which consist of large numbers of mostly simple physical robots. In this project we will focus our work on understanding and implementing the formation control of swarm robots.
 
@@ -11,7 +13,6 @@ Swarm robotics is an approach to the coordination of multirobot systems which co
 3. Implement various motion planning algorithms for swarm robots
 4. Explore dynamic planning for active swarm
 
-### Students :- Harry Karwasra, Pranav Kumar, Thomas Kuruvila
 ____
 &nbsp;
 &nbsp;
@@ -19,6 +20,8 @@ ____
 # 2. Lab Automation System
 
 ### Mentors :- Peeyush Aggarwal, Vikas Kamboj, Shreyas Sachan
+
+### Students :- Akanksha, Mohd Abis, Bharat Sardana
 
 ## ABSTRACT
 Laboratory autonomation is aimed at improving the efficiency of the lab and everyone working within the lab. In this project we will be building a complete autonomation system which will have intelligent lighting system, person detection and tracking, implementing user defined preferences, etc.
@@ -30,13 +33,14 @@ Laboratory autonomation is aimed at improving the efficiency of the lab and ever
 4. Recognise people
 5. Implement various user defined preferences like temperature control, lighting control, etc.
 
-### Students :- Akanksha, Mohd Abis, Bharat Sardana
 ____
 &nbsp;
 &nbsp;
 # 3. Person Tracking and Following Robot
 
 ### Mentors :- Rishab Grover, Ashish Sethi, Ridhwan Luthra
+
+### Students :- Parth Joshi, Prakhar Gupta, Ashish Priyadarshi
 
 ## ABSTRACT
 Object detection and tracking is a widely researched field. In this project we will be building 2 robots; one which is stationary and uses a manipulator to track a person or object; second, which is  a mobile robot capable of following the person around a room. The application for this project can be many but our design will be targeted towards bloggers, youtubers, speakers, etc. who want to record themselves with ease.
@@ -49,7 +53,6 @@ Object detection and tracking is a widely researched field. In this project we w
 5. Test and improve real time applicability
 6. Interface with multiple devices
 
-### Students :- Ashish Priyadarshi, Parth Joshi, Prakhar Gupta
 ____
 
 
