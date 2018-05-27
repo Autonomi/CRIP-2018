@@ -16,9 +16,9 @@ CRIP is a 2 months-long programme, where students will choose and hence develop 
 | <ul><li>[x] Student proposal application Start Date</li> | 25/04/2018 |
 | <ul><li>[x] Deadline for mentor proposal application</li> | 30/04/2018 |
 | <ul><li>[x] List of accepted Mentors and Projects published</li> | 30/04/2018 |
-| <ul><li>[ ] Student proposal application Deadline</li> | 20/05/2018 |
-| <ul><li>[ ] Accepted students announced</li> | 22/05/2018 |
-| <ul><li>[ ] Bonding period: Students get to know about project and discuss it with mentors</li> | 24/05/2018 - 30/05/2018 |
+| <ul><li>[x] Student proposal application Deadline</li> | 20/05/2018 |
+| <ul><li>[x] Accepted students announced</li> | 26/05/2018 |
+| <ul><li>[ ] Bonding period: Students get to know about project and discuss it with mentors</li> | 27/05/2018 - 30/05/2018 |
 | <ul><li>[ ] Internship Starts</li> | 01/06/2018 |
 | <ul><li>[ ] Mid-summer evaluation</li> | 30/06/2018 - 31/06/2018 |
 | <ul><li>[ ] Summer Internship Ends: Project Deadline</li> | 20/07/2018 |
@@ -29,10 +29,10 @@ CRIP is a 2 months-long programme, where students will choose and hence develop 
 ## Registration
 Mentors can register ~~here.~~
 
-Students can register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZK2vgzY7yYmcAUn1l838W1Xbxt4PdIj2xnBoQY4OCwohySg/viewform">here</a>.
+Students can register ~~here.~~
 
-## Projects
-You can find the project <a href="https://github.com/Autonomi/CRIP-2018/blob/master/Projects.md">here</a>.
+## Selected Students & Mentors Project wise.
+You can find the final projects <a href="https://github.com/Autonomi/CRIP-2018/blob/master/Final%20Students%20%26%20Projects%20%26%20Mentors.md">here</a>.
 
 ## Contact Us
 You can create an issue on this Github repo to know more.
