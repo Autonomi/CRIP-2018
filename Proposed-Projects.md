@@ -1,4 +1,5 @@
 # 1. Simultaneous Localisation and Mapping (SLAM)
+
 ## ABSTRACT
 In robotic mapping and navigation, simultaneous localization and mapping (SLAM) is the computational problem of constructing or updating a map of an unknown environment while simultaneously keeping track of an agent's location within it. In this project we aim to break down this field into small chunks and prepare each module separately to finally build a unified SLAM robot.
 
