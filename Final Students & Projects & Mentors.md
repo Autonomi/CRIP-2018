@@ -19,7 +19,7 @@ ____
 
 # 2. Lab Automation System
 
-### Mentors :- Peeyush Aggarwal, Lakshay Juneja, Vikas Kamboj, Shreyas Sachan
+### Mentors :- Peeyush Aggarwal, Lakshay Juneja, Vikas Kamboj
 
 ### Students :- Akanksha, Mohd Abis, Bharat Sardana
 
