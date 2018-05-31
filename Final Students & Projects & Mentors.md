@@ -2,7 +2,7 @@
 
 ### Mentors :- Akanshu Mahajan, Ridhwan Luthra, Vaibhav Jain
 
-### Students :- Harry Karwasra, Pranav Kumar, Thomas Kuruvila
+### Students :- Harry Karwasra, Pranav Kumar, Chetan Madan
 
 ## ABSTRACT
 Swarm robotics is an approach to the coordination of multirobot systems which consist of large numbers of mostly simple physical robots. In this project we will focus our work on understanding and implementing the formation control of swarm robots.
