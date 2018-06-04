@@ -2,7 +2,7 @@
 
 ### Mentors :- Akanshu Mahajan, Ridhwan Luthra, Vaibhav Jain
 
-### Students :- Harry Karwasra, Pranav Kumar, Chetan Madan
+### Students :- Harry Karwasra, Pranav Kumar
 
 ## ABSTRACT
 Swarm robotics is an approach to the coordination of multirobot systems which consist of large numbers of mostly simple physical robots. In this project we will focus our work on understanding and implementing the formation control of swarm robots.
@@ -40,7 +40,7 @@ ____
 
 ### Mentors :- Rishab Grover, Ashish Sethi, Ridhwan Luthra
 
-### Students :- Parth Joshi, Prakhar Gupta, Ashish Priyadarshi
+### Students :- Parth Joshi, Prakhar Gupta
 
 ## ABSTRACT
 Object detection and tracking is a widely researched field. In this project we will be building 2 robots; one which is stationary and uses a manipulator to track a person or object; second, which is  a mobile robot capable of following the person around a room. The application for this project can be many but our design will be targeted towards bloggers, youtubers, speakers, etc. who want to record themselves with ease.
