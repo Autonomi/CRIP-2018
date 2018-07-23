@@ -32,7 +32,8 @@ Mentors can register ~~here.~~
 Students can register ~~here.~~
 
 ## Selected Students & Mentors Project wise.
-You can find the final projects <a href="https://github.com/Autonomi/CRIP-2018/blob/master/Final%20Students%20%26%20Projects%20%26%20Mentors.md">here</a>.
+You can find the selected projects <a href="https://github.com/Autonomi/CRIP-2018/blob/master/Final%20Students%20%26%20Projects%20%26%20Mentors.md">here</a>.
+For the list of all proposed projects, click <a href="https://github.com/Autonomi/CRIP-2018/blob/master/Proposed-Projects.md">here</a>.
 
 ## Contact Us
 You can create an issue on this Github repo to know more.
