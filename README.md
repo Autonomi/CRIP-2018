@@ -22,7 +22,7 @@ CRIP is a 2 months-long programme, where students will choose and hence develop 
 | <ul><li>[x] Internship Starts</li> | 01/06/2018 |
 | <ul><li>[x] Mid-summer evaluation</li> | 30/06/2018 - 31/06/2018 |
 | <ul><li>[x] Summer Internship Ends: Project Deadline</li> | 20/07/2018 |
-| <ul><li>[ ] List of successful projects published and certificates distribution</li> | 05/08/2018 |
+| <ul><li>[x] List of successful projects published and certificates distribution</li> | 05/08/2018 |
 
 ###### All the dates mentioned are tentative and any changes in the timeline will be notified in advance.
 
